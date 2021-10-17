@@ -1,12 +1,12 @@
 body {
-  background-color: beige;
-  color: brown;
+  background-color: silver;
+  color: teal;
   text-align: center;
 }
 
 h1 {
   font-size: 2em;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 
